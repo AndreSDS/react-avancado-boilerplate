@@ -1,5 +1,5 @@
 export const Main = () => (
   <main>
-    <h2>React Avançado</h2>
+    <h1>React Avançado</h1>
   </main>
 )
