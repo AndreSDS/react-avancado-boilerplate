@@ -5,7 +5,7 @@ exports[`<Main /> should render a heading 1`] = `
   class="styles__Wrapper-sc-dzx1ao-0 jTzoJi"
 >
   <img
-    alt="imagem de um átomo e um texto escrito react avançado"
+    alt="imagem de um átomo e o react avançado ao lado"
     class="styles__Logo-sc-dzx1ao-1 dwiHcF"
     src="/img/logo.svg"
   />

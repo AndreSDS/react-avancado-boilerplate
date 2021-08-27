@@ -3,7 +3,7 @@ export const Main = () => (
   <Wrapper>
     <Logo
       src="/img/logo.svg"
-      alt="imagem de um átomo e um texto escrito react avançado"
+      alt="imagem de um átomo e o react avançado ao lado"
     />
     <Title>React Avançado</Title>
     <Description>TypeScript, ReactJS, NextJs e Styled Components</Description>
