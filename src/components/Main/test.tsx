@@ -12,8 +12,4 @@ describe('<Main />', () => {
 
     expect(container.firstChild).toMatchSnapshot()
   })
-
-  it('should render the colors correctly', () => {
-    expect(container.firstChild).toHaveStyle({ 'background-color': '#06092b' })
-  })
 })
