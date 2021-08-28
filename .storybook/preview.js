@@ -1,4 +1,10 @@
-import {addDecorator} from "@storybook/react"
-import {withGlobalStyles} from "./withGlobalStyles"
+import { GlobalStyle } from '../src/styles/global'
 
-addDecorator(withGlobalStyles)
+export const decorators = [
+  (Story) => (
+    <>
+      <GlobalStyle />
+      <Story />
+    </>
+  )
+]
